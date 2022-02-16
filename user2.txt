@@ -1,1 +1,5 @@
+name: Alex
+age: 35
+gender: male
+interests: fitness
 
